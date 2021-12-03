@@ -60,7 +60,7 @@ const App = () => {
                     <li>🔎: "Search .... "</li>
                     <li>❓ : "What is the meaning of .... ?"</li>
                     <li>👀: "Close this Tab"</li>
-                    {/* <li>Say: "Execute command"</li> */}
+                    <li>🎶: "Play ...."</li>
                 </ul>
             </header>
             <footer className="footer">
