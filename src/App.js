@@ -54,13 +54,12 @@ const App = () => {
                 <img src={logo} className="App-logo" alt="logo" />
                 <h3>VAWB - Your personal virtual assisstant : </h3>
                 <ul>
-                    <li>
-                        👋: "Hello | What's your name ? | What can you do ?"
-                    </li>
-                    <li>🔎: "Search .... "</li>
-                    <li>❓ : "What is the meaning of .... ?"</li>
-                    <li>👀: "Close this Tab"</li>
-                    <li>🎶: "Play ...."</li>
+                    <li>👋: Hello | What's your name ? | What can you do ?</li>
+                    <li>🔎: Search .... </li>
+                    <li>❓ : What is the meaning of .... ?</li>
+                    <li>🔗: Open website .... </li>
+                    <li>👀: Close this Tab</li>
+                    <li>🎶: Play ....</li>
                 </ul>
             </header>
             <footer className="footer">
